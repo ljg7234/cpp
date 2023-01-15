@@ -8,3 +8,5 @@ c++공부하는 레포
 [005](https://github.com/ljg7234/cpp/blob/main/005.cpp) 디폴트 값 <br>
 [006](https://github.com/ljg7234/cpp/blob/main/006.cpp) 인라인 함수 정의 <br>
 [007](https://github.com/ljg7234/cpp/blob/main/007.cpp) 이름 공간 함수 <br>
+[008](https://github.com/ljg7234/cpp/blob/main/008.cpp) using 이용 이름공간 명시 <br>
+[009](https://github.com/ljg7234/cpp/blob/main/009.cpp) using namespace 선언 <br>
